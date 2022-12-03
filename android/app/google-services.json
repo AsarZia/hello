@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342910243631",
+    "project_id": "toast-3ee42",
+    "storage_bucket": "toast-3ee42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342910243631:android:9e6906176198966c3607da",
+        "android_client_info": {
+          "package_name": "com.example.toast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342910243631-rqe01t9dsfbksv491eleo3p2uecbu8oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT_Pokm-x1EtHb3BmJeDFHu3uL3hJLUV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342910243631-rqe01t9dsfbksv491eleo3p2uecbu8oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
